@@ -48,8 +48,8 @@ public class Main {
         pw.println("-- Ингредиенты (на " + pieces + " порций): ");
         pw.println("1. Яблоки (желательно кислые) - " + apples);
         pw.println("2. Яйца - " + egg_kol1 + " больших или " + egg_kol2 + " маленьких");
-        pw.println("3. Сахар - " + muka_sugar_kol + " г (примерно 3/4 стакана ёмкостью" + stakan_emkost + ")");
-        pw.println("4. Мука пшеничная - " + muka_sugar_kol + " г (1 стакан ёмкостью" + stakan_emkost + ")");
+        pw.println("3. Сахар - " + muka_sugar_kol + " г (примерно 3/4 стакана ёмкостью " + stakan_emkost + " г" + ")");
+        pw.println("4. Мука пшеничная - " + muka_sugar_kol + " г (1 стакан ёмкостью " + stakan_emkost + " г" + ")");
         pw.println("5. Соль - " + salt + " щепотка");
         pw.println("6. Масло сливочное/тёртое печенье (для формы)");
         pw.println("--------------------------------------------------------------");
